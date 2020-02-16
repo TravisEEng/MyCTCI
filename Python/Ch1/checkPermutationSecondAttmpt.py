@@ -21,7 +21,7 @@ def arePerm(str1, str2):
     return True
 
 if __name__ == "__main__":
-    if (arePerm("dac","cad")):
+    if (arePerm("taco cat","atco cta")):
        print("Yes perm")
     else:
         print("No perm")
